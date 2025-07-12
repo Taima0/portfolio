@@ -1,6 +1,5 @@
 // Project: SecureAPI-MockServer
-// Description: A mock secure API service using Java Spring Boot, with HTTPS and token-based authentication
-
+// Description: A mock secure API service using Java Spring Boot, with HTTPS and token-based authentication\
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.*;
